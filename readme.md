@@ -42,7 +42,7 @@ int main()
 
 ### detect_seg_ort using onnxruntime to infer
 
-<img src="./1.jpg" alt="1" style="zoom:25%;" />
+<img src="./onnxcpp/1.jpg" alt="1" style="zoom:25%;" />
 
-![res](./res.png)
+![res](./onnxcpp/res.png)
 
